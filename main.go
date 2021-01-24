@@ -22,7 +22,7 @@ var config struct {
 
 func main() {
 	bot := vk.Session{
-		Token:   "YOURTOKEN",
+		Token:   "9b598b0bbeec3decbb1a37e0d3743779bccc850ceb68b8f6e3d977247d17c529404cf609a839a196f5b78",
 		Version: "5.110",
 	}
 	rand.Seed(time.Now().UnixNano())
